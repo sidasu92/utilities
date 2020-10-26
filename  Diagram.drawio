@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T16:49:29.399Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="XHBa4dtUcpbFLvWVzvkl" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T15:36:42.669Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="w2XrnkNy1xqK4HpIlmmy" version="13.8.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2365" dy="1535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,9 +61,6 @@
         </mxCell>
         <mxCell id="0Sah-CIgMZ0cvd-PUmom-15" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;span&gt;1. Auto fill Quote.CPQ_BillTo__c = billing contact&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&amp;nbsp;2. By pass validation that Quote. Bill to Account should be same as Bill to Contact&lt;/p&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="445" y="858.03" width="250" height="131" as="geometry" />
-        </mxCell>
-        <mxCell id="0Sah-CIgMZ0cvd-PUmom-18" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="570" y="799.03" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0Sah-CIgMZ0cvd-PUmom-20" value="Backend processing starts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="220" y="110" width="160" height="20" as="geometry" />
